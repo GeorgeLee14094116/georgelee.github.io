@@ -70,11 +70,11 @@ Achievements
 Objective
 - Identify future risks and opportunities for new business volumes and retention of in-force business.
 - Analyse macro trends in Adviser registrations and broader demographic trends.
-Technologies Used
+##### Technologies Used
 - Alteryx: Conducted data preparation to ensure clean and structured datasets.
 - Power BI: Leveraged for in-depth analysis of life insurance data, focusing on diverse Census
 Demographic segments.
-Achievements
+##### Achievements
 - Delivered comprehensive insights into the size of the life insurance market in specific geographic
 regions.
 - Conducted a comparative analysis to determine the company's competitive positioning, enabling
@@ -88,12 +88,12 @@ support for the company.
 Objective
 - Lead a comprehensive analysis of historical traffic accident data with the primary goal of reducing
 future accidents.
-Technologies Used
+##### Technologies Used
 - Python: Utilised for data analysis, preprocessing, and machine learning model development.
 Matplotlib and Seaborn: Employed for effective data visualisation during Exploratory Data Analysis
 (EDA).
 - Random Forest Model: Developed for predicting accident likelihood based on historical data.
-Achievements
+##### Achievements
 - Implemented robust data preprocessing techniques, contributing to the accuracy and reliability of
 accident analysis.
 - Conducted insightful Exploratory Data Analysis (EDA) to uncover critical patterns and contributing
